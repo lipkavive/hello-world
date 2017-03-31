@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hi Everybody!
+
+This is an introduction concerning popular culture!
